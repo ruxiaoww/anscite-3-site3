@@ -1,0 +1,13 @@
+# 答引
+
+> 答引提供 GEO 自助平台，客户可自行操作后台，建立品牌事实库、获取长尾词、发布独立站点并查看探测报告。
+
+官网：https://www.anscite.com/
+
+## 页面
+
+- [答引 GEO 自助平台](https://platform.anscite.com/): 答引提供 GEO 自助平台，客户可自行操作后台，建立品牌事实库、获取长尾词、发布独立站点并查看探测报告。
+- [关于我们 · 答引](https://platform.anscite.com/about/): 答引是提供生成式引擎优化（GEO）服务的公司，本页面介绍其 GEO 自助平台。
+- [项目案例 · 答引](https://platform.anscite.com/cases/): 答引提供 GEO 自助平台，客户可自行操作后台，建立品牌事实库、获取长尾词、发布独立站点并查看探测报告。
+- [常见问题 · 答引](https://platform.anscite.com/faq/): 答引提供 GEO 自助平台，客户可自行操作后台，建立品牌事实库、获取长尾词、发布独立站点并查看探测报告。
+- [联系我们 · 答引](https://platform.anscite.com/contact/): 联系答引了解 GEO 自助平台，邮箱 biz@anscite.com。
