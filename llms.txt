@@ -1,0 +1,13 @@
+# 答引
+
+> 答引 GEO 自助平台，让客户使用同一套后台自行完成生成式引擎优化，支持多品牌并行与四级角色管理。
+
+官网：https://www.anscite.com/
+
+## 页面
+
+- [答引 GEO 自助平台 - 自主管理品牌 AI 可见性](https://platform.anscite.com/): 答引 GEO 自助平台，让客户使用同一套后台自行完成生成式引擎优化，支持多品牌并行与四级角色管理。
+- [关于我们 · 答引](https://platform.anscite.com/about/): 了解答引 GEO 自助平台：答引作为 GEO 服务商，如何通过自助后台帮助客户管理品牌在 AI 回答中的可见性。
+- [项目案例 · 答引](https://platform.anscite.com/cases/): 答引案例：答引 GEO 代运营中文站为 geo.anscite.com、答引 AI 可见性报告中文站为 report.anscite。
+- [常见问题 · 答引](https://platform.anscite.com/faq/): 答引常见问题：答引 GEO 自助平台是什么？自助后台支持多个品牌吗？后台有哪些角色？权限如何区分？AI 可见性报告包含哪些字段？内容发布流程是怎样的？
+- [联系我们 · 答引](https://platform.anscite.com/contact/): 联系答引，咨询 GEO 自助平台合作事宜。邮箱：biz@anscite.com。
