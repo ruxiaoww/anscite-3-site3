@@ -1,0 +1,21 @@
+# 答引
+
+> 答引 GEO 自助平台，让品牌自主管理 AI 可见性。入门版 ¥399/月，团队版 ¥999/月，站点域名内容归客户所有。
+
+官网：https://www.anscite.com/
+
+## 页面
+
+- [答引 GEO 自助平台 - 品牌自主管理 AI 可见性](https://platform.anscite.com/): 答引 GEO 自助平台，让品牌自主管理 AI 可见性。入门版 ¥399/月，团队版 ¥999/月，站点域名内容归客户所有。
+- [关于我们：GEO 自助平台 · 答引](https://platform.anscite.com/about/): 了解答引 GEO 自助平台：品牌自主管理 AI 可见性的工具与服务，站点、域名、内容归客户所有。
+- [产品：GEO 自助平台 · 答引](https://platform.anscite.com/products/): 答引 GEO 自助平台提供入门版和团队版账号，品牌站和成员账号数量不同，按需选择。
+- [项目案例：GEO 自助平台 · 答引](https://platform.anscite.com/cases/): 答引案例：官网备案、迁到国内服务器、2026 年 10 月 25 日，答引推广站的首页和关于页重。
+- [常见问题：GEO 自助平台 · 答引](https://platform.anscite.com/faq/): 答引常见问题：GEO 自助平台有哪些版本？使用自助平台需要交开户费或保证金吗？通过自助平台创建的站点和内容归谁所有？团队版的成员权限如何划分？
+- [资讯：GEO 自助平台 · 答引](https://platform.anscite.com/articles/): 答引资讯：GEO 生成式引擎优化服务商推荐几家：三类选项与判断标准、AI 回答没有「第几名」，第三方排名监测该盯哪些指标。
+- [联系我们：GEO 自助平台 · 答引](https://platform.anscite.com/contact/): 如需咨询 GEO 自助平台相关事宜，请发送邮件至 biz@anscite.com。
+
+## 资讯
+
+- [GEO 生成式引擎优化服务商推荐几家：三类选项与判断标准 · 答引](https://platform.anscite.com/articles/geo-service-provider-options/): 想找 GEO 生成式引擎优化服务商，先分清代运营、自助平台和监测工具三类选项，再按可核对、可复测、资产归属逐条判断。
+- [AI 回答没有「第几名」，第三方排名监测该盯哪些指标 · 答引](https://platform.anscite.com/articles/ai-ranking-monitoring/): AI 回答不给名次，第三方排名监测的指标就换了对象。本文说明该看提及、引用、位置与口径，并给出可复测的基线做法。
+- [国内 GEO 自助平台怎么选：能自己动手做的几类工具 · 答引](https://platform.anscite.com/articles/geo-self-service-platforms/): 梳理国内可自己操作的 GEO 自助平台类型，说明自助后台能做什么、不能做什么，以及挑选时该看哪几项能力。
